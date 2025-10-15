@@ -180,7 +180,7 @@ The system automatically escalates conversations when:
 - `confidence_score`: Bot response confidence
 - `source`: Response source (FAQ category, fallback, etc.)
 
-## 🚀 Deployment
+## Deployment
 
 ### Local Development
 ```bash
